@@ -1,0 +1,141 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  /*background-image: url(/Users/rishabhbhardwaj/Downloads/sam-mar-OQOKSsj8QME-unsplash.jpg);
+  background-attachment: fixed;*/
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 50px;
+
+  background-image: url();*
+}
+#head {
+  background-image: url(/Users/rishabhbhardwaj/Desktop/sam-mar-OQOKSsj8QME-unsplash.jpg);
+}
+#heading {
+  font-size: 80px;
+  font-weight: 400px;
+  font-family:'Courier New', Courier, monospace;
+}
+#list {
+  font-size: 25px;
+  font-weight: 300;
+  background-image: url(/Users/rishabhbhardwaj/Desktop/jack-daniels-tennessee-whisky-bottle.jpg);
+}
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+nav a {
+  color: white;
+  text-decoration: Arial;
+}
+
+nav a:hover {
+  color: #f2f2f2;
+  background-color: #333;
+}
+
+main {
+  padding: 10px;
+  text-align: center;
+}
+
+main section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 0px 10px #ccc;
+}
+
+main h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+
+.events1 {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 350px;
+    
+
+}
+
+#events {
+      background-image: url(/Users/rishabhbhardwaj/Downloads/web1.jpg);
+  
+}
+
+#revents {
+  color: lavenderblush;
+}
+
+.events1 {
+  color: lavenderblush;
+
+}
+#about {
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Merriweather', serif;
+    font-weight: 200px;
+    background-image: url(/Users/rishabhbhardwaj/Desktop/images.jpg);
+    color: white;
+    
+    background-size: auto;
+
+}
+
+#about1 {
+  font-size: 45px;
+  font-weight: 400;
+  color:#f4eeee ;
+}
+
+#recruitment {
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300px;
+  background-image: url(/Users/rishabhbhardwaj/Downloads/wolkberg-casting-studios-leaf-tile-mosaic-wall-tiles-archello.1607415475.3509.jpg);
+
+}
+
+#contact {
+  background-color: none;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300px;
+  background-image: url(https://static.wixstatic.com/media/411520_87707c79a89f461e9cb370acfa9b1304~mv2.jpg/v1/fill/w_1456,h_678,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/411520_87707c79a89f461e9cb370acfa9b1304~mv2.jpg);
+  color: black;
+  background-attachment:scroll;
+  background-image: -moz-element();
+
+}
